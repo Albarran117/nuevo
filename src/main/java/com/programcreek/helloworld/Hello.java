@@ -6,7 +6,7 @@ import com.programcreek.helloworld.services.HelloWorldService;
 
 public class Hello {
 	//hola
-//adios
+//adioss
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
 		//Cambio que detectara jenkins
