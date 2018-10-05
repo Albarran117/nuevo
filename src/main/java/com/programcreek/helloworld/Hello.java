@@ -8,7 +8,7 @@ public class Hello {
 
 	@SuppressWarnings("resource")
 	public static void main(String[] args) {
-
+		//Cambio que detectara jenkins
 		// loading the definitions from the given XML file
 		ApplicationContext context = new ClassPathXmlApplicationContext(
 				"applicationContext.xml");
